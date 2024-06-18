@@ -1,4 +1,4 @@
-```markdown
+
 # Real-Time Signal Filtering
 
 This project provides implementations of the Moving Average (MA) filter and the Median filter in C++. These filters are applied to a series of signal data to smooth out noise and spikes. The project includes code to test these filters with different input vectors, including a vector of size 255.
