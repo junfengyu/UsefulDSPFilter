@@ -38,30 +38,3 @@ Run the compiled program:
 
 The program will apply both the Moving Average and Median filters to two test vectors and display the filtered results.
 
-### Code Overview
-
-The main components of the code are:
-
-- **`MedianFilterFunc`**: Template function to apply the Median filter.
-- **`MAFilterFunc`**: Template function to apply the Moving Average filter.
-- **`ApplyFiltersAndDisplay`**: Function to apply the filters to an input vector and display the results.
-- **`TestFilters`**: Function to test the filters with different input vectors.
-- **`main`**: Entry point of the program that calls `TestFilters`.
-
-### Example Output
-
-When you run the program, you will see output similar to the following:
-
-```
-Test with first vector (size: 70):
-Moving Average Filtered Data:
-... (filtered data) ...
-Median Filtered Data:
-... (filtered data) ...
-
-Test with second vector (size: 255):
-Moving Average Filtered Data:
-... (filtered data) ...
-Median Filtered Data:
-... (filtered data) ...
-```
