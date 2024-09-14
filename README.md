@@ -1,4 +1,4 @@
-# Filter Implementations: Moving Average and Median Filters in C++ and Rust
+# Moving Average and Median Filters in C++ and Rust
 
 This repository provides implementations of two fundamental signal processing filters: the **Moving Average Filter** and the **Median Filter** in both **C++** and **Rust**. These filters are essential tools for smoothing data, reducing noise, and extracting meaningful information from datasets.
 
